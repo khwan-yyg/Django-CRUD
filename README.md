@@ -1,6 +1,9 @@
 ## ระบบจัดการพนักงาน (Employee Management CRUD)
 เป็นเว็บแอปพลิเคชัน CRUD ที่พัฒนาด้วย Django สำหรับการจัดการข้อมูลพนักงาน ใช้ Bootstrap 5 ในการตกแต่งหน้าเว็บ และฐานข้อมูลเริ่มต้นเป็น SQLite 
 
+<img width="1000" height="683" alt="Django_CRUD" src="https://github.com/user-attachments/assets/6b563269-ec0e-4227-87bb-842c4fff6b35" />
+
+
 ฟีเจอร์
 - เพิ่มข้อมูลพนักงานใหม่
 - แสดงรายชื่อพนักงานทั้งหมด
